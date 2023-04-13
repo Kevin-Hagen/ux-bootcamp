@@ -18,7 +18,7 @@
  .swatch {
     height: 200px;
     width: 170px;
-    border: 1px solid black;
+    border: 100px solid black;
 }
 .hexCode {
     padding: 15px;
